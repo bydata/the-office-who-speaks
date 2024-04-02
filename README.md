@@ -1,4 +1,4 @@
-# Who speaks with whom in The Office
+# Who speaks about whom in The Office
 
 <img src="17-network-who-speaks-office.png" width=600 />
 
